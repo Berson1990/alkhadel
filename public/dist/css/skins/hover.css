@@ -1,0 +1,152 @@
+.treeview .treeview-menu .hoverlink{ color: #3c8dbc;}
+.treeview .treeview-menu li a { color: #000;}
+.sidebar-menu>li { background-color: #d2d2d2;}
+.sidebar-menu .treeview-menu>li>a {
+font-size:22px;
+padding-top: 12px;
+font-weight: bold;
+    direction: rtl;
+}
+.sub-title{
+font-size:18px;
+padding-top: 12px;
+font-weight: bold;   
+   
+}
+
+
+
+.fontDesign{
+font-size: 18px;
+font-weight: bold; 
+}
+
+/*
+.dataTables_filter{
+font-size: 18px;
+font-weight: bold; 
+}
+
+
+*/
+input{
+font-size: 19px;
+font-weight: bold; 
+}
+
+b{
+font-size: 18px;
+font-weight: bold; 
+}
+
+select{
+font-size: 18px;
+font-weight: bold; 
+}
+.box-title {
+font-size: 18px;
+font-weight: bold; 
+}
+
+span {
+font-size: 14px;
+font-weight: bold; 
+}
+label {
+font-size: 14px;
+font-weight: bold; 
+}
+
+    .title{
+       margin:5px 0 0 0;
+/*     font-weight: bold; */
+        font-size:22px;
+        height:15px;
+        color: #fff;
+        font-weight: bold;
+    }
+    .box-title-heder{
+    position:relative;
+    top:-9px;
+/*  margin:-10px 0 0 0;*/
+    height:50px;
+/*    background:#e08e0b; */
+    }
+
+    .content-header{
+     height:20px;
+    }
+
+.btn.btn-sm {
+    border-radius: 0;
+    border-width: 1px;
+    box-shadow: none;
+    moz-box-shadow: none;
+    webkit-box-shadow: none;
+    height: 40px;
+    width: 60px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#validation{
+
+height:35px; 
+font-weight:bold; 
+font-size:20px;
+color:#000;
+/*line-height:ju;*/
+
+}
+
+#validation2{
+
+height:35px; 
+font-weight:bold; 
+font-size:20px;
+color:#000;
+/*line-height:ju;*/
+
+}
+#validation4{
+
+height:35px; 
+font-weight:bold; 
+font-size:20px;
+color:#000;
+/*line-height:ju;*/
+
+}
+/*  @media print{
+  #lasttable .form-control{
+                                font-size: 10px;
+                                font-weight: bold;
+
+
+                            }
+                        }*/
+
+
+/*.FirsTPart{
+max-height: 100px;
+
+}
+*/
+@media print {
+   .FirsTPart { height: 30px; }
+   .FirsTPart2 { height: 20px; }
+   .FirsTPart5 { height: 20px; }
+   .FirsTPart6 { height: 20px; }
+
+   #search-oneTotalExpense{display:none;}
+   #search-TotalExpense{display:none;}
+   #search-ExpensesGroupReport{display:none;}
+   #search-deferredbills{display:none;}
+
+    .table.dataTable{ font-size: 20px;
+                                font-weight: bold;
+                                height:15px;
+                                line-height: 0.428571;}
+}
+
+
